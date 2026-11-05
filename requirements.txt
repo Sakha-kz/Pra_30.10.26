@@ -1,0 +1,7 @@
+numpy>=1.26,<3
+opencv-python>=4.8
+matplotlib>=3.7
+scipy>=1.11
+scikit-image>=0.22
+torch>=2.2
+notebook>=7
